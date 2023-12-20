@@ -1,4 +1,4 @@
-# covidreport
+#Disease Tracker
 
 A new Flutter project.
 
